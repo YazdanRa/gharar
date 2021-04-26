@@ -13,9 +13,8 @@ pip install pygharar
 
 # Usage
 
-```jupyterpython
-In[1]:
-from pygharar import Gharar
+```python
+In[1]: from pygharar import Gharar
 
 In[2]: my_gharar = Gharar(
     service_url="https://gharar.ir/",
