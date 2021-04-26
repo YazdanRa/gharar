@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pygharar"
+version = "0.0.1"
+
+description = "Gharar client in python"
+authors = ["Yazdan Ranjbar <Yazdan_ra@icloud.com>"]
+license = "GPLv3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.6.1"
+requests = "^2.25.1"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
