@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pygharar"
-version = "0.0.1"
+version = "0.0.2"
 
 description = "Gharar client in python"
 authors = ["Yazdan Ranjbar <Yazdan_ra@icloud.com>"]
